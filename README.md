@@ -1,7 +1,7 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 ```
-Name: Ramya R
-Reg No: 212223230169
+Name: THARUN D
+Reg No: 212224752171
 ```
 Experiment:
 Develop a comprehensive report for the following exercises:
@@ -113,8 +113,6 @@ Large Language Models (LLMs) are a type of artificial intelligence that can unde
 - **Improved Efficiency**: Researchers are exploring ways to make LLMs smaller and more efficient, reducing their carbon footprint while maintaining performance.  
 - **Continual Learning**: Efforts are underway to enable models to learn continually from new data without forgetting previously acquired knowledge.  
 - **Interdisciplinary Applications**: Increasing collaboration between AI and fields like medicine, law, and education to create specialized models addressing domain-specific needs.  
-# Growth over the years
-
 
 ## Conclusion  
 
