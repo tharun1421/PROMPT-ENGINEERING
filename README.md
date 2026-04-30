@@ -2,6 +2,8 @@
 ```
 Name: THARUN D
 Reg No: 212224752171
+Slot:T1-D6
+Subject:19DT608- PROMPT  ENGINEERING 
 ```
 Experiment:
 Develop a comprehensive report for the following exercises:
